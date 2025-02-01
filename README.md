@@ -4,7 +4,7 @@ This is a official implementation of PointMax proposed by our paper:  "PointMax:
 # Tasks
 We currently provide implementations on classification tasks:
 
- 1.[ PointNeXt](./PointMetaBase) and [PointNet++](./PointNet++) for point cloud classification on ScanObjectNN.
+ 1.[PointNet++](./PointNet++) for point cloud classification on ScanObjectNN.
  2. [OpenShape](./OpenShape_code) for zero-shot classification on Objaverse-LVIS.
 
 # Install 
