@@ -8,11 +8,7 @@ We currently provide implementations on classification tasks:
  2. [OpenShape](./OpenShape_code) for zero-shot classification on Objaverse-LVIS.
 
 # Install 
-``` 
-cd PointMetaBase
 
-source install.sh
-```
 If you want to use OpenShape, install the following package
 ```
 pip install -U git+https://github.com/NVIDIA/MinkowskiEngine
